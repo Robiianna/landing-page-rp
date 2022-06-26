@@ -6,7 +6,7 @@ export const Card = () => {
 			<img
 				src="https://www.rd.com/wp-content/uploads/2021/01/GettyImages-1175550351.jpg"
 				className="card-img-top"
-				alt="Fill Murray 500x325"
+				alt="cat 500x325"
 			/>
 			<div className="card-body">
 				<h5 className="card-title">Card title</h5>
